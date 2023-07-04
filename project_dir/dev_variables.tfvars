@@ -1,0 +1,10 @@
+region = [ "us-east-1", "us-east-2" ]
+project = "popsocial"
+env = "dev"
+cidr = "172.16.0.0/16"
+engine = "aurora-mysql"
+engine_version = "5.7.mysql_aurora.2.07.2"
+db_name = "mydb"
+master_usr = "popsocial"
+master_pswd = "Popsocial2023"
+db_class = "db.r5.large"
