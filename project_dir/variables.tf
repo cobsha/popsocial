@@ -6,7 +6,7 @@ variable "region" {
 
 variable "project" {
 
-    default = "zomato"
+    default = "popsocial"
 }
 
 variable "env" {
